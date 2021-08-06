@@ -3,6 +3,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.quiettimeapplication.MainActivity">
     <item
+        android:id="@+id/action_home"
+        android:orderInCategory="100"
+        android:title="@string/action_home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_black_list"
+        android:orderInCategory="100"
+        android:title="@string/action_black_list"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_white_list"
+        android:orderInCategory="100"
+        android:title="@string/action_white_list"
+        app:showAsAction="never" />
+    <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:title="@string/action_settings"

@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/QuietTimeApplication/app/src/main/res/layout/activity_black_list.xml" value="0.18802083333333333" />
+        <entry key="..\:/AndroidStudioProjects/QuietTimeApplication/app/src/main/res/layout/activity_main.xml" value="0.15384615384615385" />
+        <entry key="..\:/AndroidStudioProjects/QuietTimeApplication/app/src/main/res/layout/activity_white_list.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/QuietTimeApplication/app/src/main/res/layout/content_black_list.xml" value="0.16302083333333334" />
+        <entry key="..\:/AndroidStudioProjects/QuietTimeApplication/app/src/main/res/layout/content_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidStudioProjects/QuietTimeApplication/app/src/main/res/menu/menu_main.xml" value="0.228125" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
